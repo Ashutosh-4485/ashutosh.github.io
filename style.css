@@ -1,0 +1,130 @@
+body{
+ 	background-color: #F5f5f5;   
+ 	position: relative;
+}
+.stylenav{
+	float: right;
+}
+.navbar-brand{
+	padding-left: 150px;
+}
+.styledropdown{
+	padding-right:80px;
+}
+.introimage{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1{
+	padding-top: 50px;
+	padding-left: 150px;
+	padding-bottom: 10px;
+	
+}
+.slidingmargin{
+	padding-top: 50px;
+}
+#personaldetails{
+	padding-top: 20px;
+	padding-bottom: 10px !important;
+	width: 100% !important;
+}
+#imagedim{
+	height: 500px;
+}
+#image-dim{
+	height: 450px;
+	width: 300px;
+}
+.skillsstyle{
+	padding-left: 7px !important;
+	padding-top: 20px;
+	
+}
+
+
+.skills{
+	margin-top: 80px;
+	background-color: #f0e4f7;
+	padding-top: 10px;
+	position: relative;
+}
+
+.marginhead{
+
+	margin-top:80px;
+	text-align: center;
+	margin-bottom: 20px;
+	color: #42314a;
+}
+.contact{
+	margin-top: 80px;
+	position: relative;
+	background-color: #ad9fb5;
+	padding-top: 10px;
+}
+
+
+.dimension{
+	width:  50px;
+	height: 50px; 
+  	margin-left: 10px;
+  	
+}
+.footer{
+	float: center;
+	margin-top: 10px;
+	padding-left: 350px;
+
+}
+.link{
+	text-decoration:  none;
+	color: black;
+}
+
+progress{
+	width:100%;
+	margin-bottom: 20px;
+}
+.projectimages{
+	width: 100%;
+	height: 200px;
+}
+
+.projecttitle{
+	font-size: 40px;
+	margin-bottom: 10px;
+	position: relative;
+}
+.contacttext{
+	font-size:20px;
+	margin-left: 10px;
+}
+.contacttext2{
+	margin-left: 30px;
+}
+#footericon{
+	
+	margin-top: 25px;
+	margin-left: 40%;
+ 	margin-bottom: 40px;
+ 	color: black;
+ 	
+}
+#menu{
+	margin-left: 150px;
+}
+
+.ayush{
+	width: 50%;
+	margin: auto;
+}
+
